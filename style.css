@@ -41,6 +41,15 @@ nav a{
         display: none;
     }
 
+    #reglink{
+        margin-top: 15%;
+        margin-left: 10%;
+        background-color: rgb(189, 36, 240);
+        font-size: bold;
+        border-radius: 10px;
+        }
+    
+    
 
     @media all and (max-width:640px){
         nav{
