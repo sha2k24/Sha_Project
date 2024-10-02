@@ -39,8 +39,8 @@ The project on its way sir
     margin-left: 10%;
     background-color: #FFAFF2;
     font-size: bold;
-    color: black;
-    border-color: black;
-    border-style: solid;
     }
 
+SHA'24, or Shaping Horizons through Advanced Electronics, is a national-level symposium organized by the Department of Electronics and Communication Engineering at Kings College of Engineering. It brings together students and innovators to explore the evolving world of electronics through technical papers, projects, and hands-on activities.
+
+The event includes both technical and non-technical challenges, ensuring an engaging experience for all participants. Beyond competition, SHA'24 encourages creative thinking and practical application in electronics, with opportunities to win exciting prizes, including an exclusive internship with RubeElix. Join us to expand your horizons and shape the future of technology!
