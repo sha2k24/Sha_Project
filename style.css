@@ -81,3 +81,7 @@ nav {
 #trail{
   align-items: center;
 }
+
+.accordion-body img{
+  padding-left: 4%;
+}
