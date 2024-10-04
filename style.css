@@ -28,6 +28,8 @@ nav {
   background-color: rgb(189, 36, 240);
   font-size: bold;
   border-radius: 10px;
+  border: 2px black;
+  
 }
 
 #about-sha {
