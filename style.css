@@ -2,8 +2,12 @@ nav {
   background-image: Linear-gradient(to right, #fff1b2, #ffdfc4, #ffaff2);
 }
 
+#caro{
+  height: 700px;
+}
+
 #reglink {
-  margin-left: 45%;
+  margin-left: 43%;
   background-color: rgb(189, 36, 240);
   font-size: bold;
   border-radius: 10px;
@@ -12,13 +16,35 @@ nav {
 }
 
 #about-sha {
-  margin-top: 6%;
+  margin-top: 7%;
   background-color: rgb(255, 246, 238);
-  padding: 3em;
-  position: absolute;
+  padding: 10em;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   text-align: justify;
 }
+
+#mbm{
+  padding-left: 4%;
+}
+
+#logozoker{
+  padding-left: 12%;
+}
+
+#threeandfore{
+  padding-left: 10%;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+  height: 100px;
+  width: 100px;
+  outline: black;
+  background-color: rgba(0, 0, 0, 0.3);
+  background-size: 100%, 100%;
+  border-radius: 50%;
+  border: 1px solid black;
+}
+
 
 @media all and (max-width: 640px) {
   body {
@@ -46,6 +72,11 @@ nav {
     display: none;
   }
   
+  
+#caro{
+  height: 500px;
+}
+
   #reglink {
     margin-left: 10%;
     background-color: rgb(189, 36, 240);
@@ -99,9 +130,6 @@ nav {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
-#trail{
-  align-items: center;
-}
 
 #mbm{
   padding-left: 4%;
@@ -125,6 +153,7 @@ footer{
   font-family: 'Dosis', sans-serif;
   font-weight: 800;
   font-size: 15px;
+  position: relative;
   
 }
 
