@@ -2,8 +2,8 @@ nav {
   background-image: Linear-gradient(to right, #fff1b2, #ffdfc4, #ffaff2);
 }
 
-#caro{
-  height: 600px;
+.w-100{
+  height: 450px;
 }
 
 #reglink {
@@ -22,6 +22,7 @@ nav {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   text-align: justify;
 }
+
 
 #mbm{
   padding-left: 4%;
@@ -44,6 +45,7 @@ nav {
   border-radius: 50%;
   border: 1px solid black;
 }
+
 
 
 @media all and (max-width: 640px) {
