@@ -10,7 +10,7 @@ class CarouselImageUpdater {
         'Sources/Corusal_d4.png'
       ],
       small: [
-        'Sources/Corusal_1.jpeg',
+        'Sources/Corusal_1.png',
         'Sources/Corusal_2.jpeg',
         'Sources/Corusal_3.jpeg',
         'Sources/Corusal_4.jpeg'
