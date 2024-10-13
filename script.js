@@ -4,13 +4,13 @@ class CarouselImageUpdater {
     this.breakpoint = breakpoint;
     this.defaultImages = {
       large: [
-        'Sources/Corusal_d1.png',
+        'Sources/Corusal_d1.svg',
         'Sources/Corusal_d2.png',
         'Sources/Corusal_d3.png',
         'Sources/Corusal_d4.png'
       ],
       small: [
-        'Sources/Corusal_1.png',
+        'Sources/Corusal_1.svg',
         'Sources/Corusal_2.jpeg',
         'Sources/Corusal_3.jpeg',
         'Sources/Corusal_4.jpeg'
@@ -44,3 +44,4 @@ class CarouselImageUpdater {
 
 // Usage
 const carouselImageUpdater = new CarouselImageUpdater(['caro1', 'caro2', 'caro3', 'caro4'], 600);
+
